@@ -2,7 +2,7 @@
 
 A curated, multiply-verified survey of **agent harness** research and engineering — the right level of abstraction for understanding the current frontier of LLM agents.
 
-**Total: 209 papers · 67 production harnesses / essays / talks · last updated 2026-10-26**
+**Total: 210 papers · 67 production harnesses / essays / talks · last updated 2026-10-29**
 
 ## What is an agent harness?
 
@@ -285,7 +285,7 @@ The agent loop is therefore a *component* of the harness — its core execution 
 | Self-Designed Evaluators and Warm Memory for Long-Horizon Agents | [2609.33717](https://arxiv.org/abs/2609.33717) | / | 2026 | arXiv (preprint) | agent memory architecture, self-designed evaluators, retry loop, label-free self-improvement |
 | When Should Agents Check External State? Budgeting Observations for Stored Intentions | [2609.37125](https://arxiv.org/abs/2609.37125) | / | 2026 | arXiv (preprint) | memory architecture, prospective memory, observation budgeting, harness policy |
 
-## 9. Multi-Agent Systems (15)
+## 9. Multi-Agent Systems (16)
 
 *Orchestrating multiple agents that debate, collaborate, or specialise.*
 
@@ -296,6 +296,7 @@ The agent loop is therefore a *component* of the harness — its core execution 
 | Improving Factuality and Reasoning in Language Models through Multiagent Debate | [2305.14325](https://arxiv.org/abs/2305.14325) | [GitHub](https://github.com/composable-models/llm_multiagent_debate) | 2023 | ICML 2024 (arXiv May 2023) | multi-agent debate, factuality, test-time scaling, society of minds |
 | MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems | [2404.04735](https://arxiv.org/abs/2404.04735) | [GitHub](https://github.com/bin123apple/MACM) | 2024 | NeurIPS 2024 (Poster) | math reasoning, condition mining, prompting |
 | More Agents Is All You Need | [2402.05120](https://arxiv.org/abs/2402.05120) | [GitHub](https://github.com/MoreAgentsIsAllYouNeed/AgentForest) | 2024 | TMLR (Transactions on Machine Learning Research) | scaling, sampling-and-voting, Agent Forest |
+| VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft | [2406.05720](https://arxiv.org/abs/2406.05720) | [GitHub](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) | 2024 | [Findings of ACL 2024](https://aclanthology.org/2024.findings-acl.964/) | task dependency graph, multi-agent orchestration, state management, Minecraft |
 | Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness | [2505.22960](https://arxiv.org/abs/2505.22960) | [GitHub](https://github.com/euiin/MAD_as_TTS) | 2025 | arXiv (under review) | test-time scaling, multi-agent debate, conditional effectiveness |
 | Why Do Multi-Agent LLM Systems Fail? | [2503.13657](https://arxiv.org/abs/2503.13657) | [GitHub](https://github.com/multi-agent-systems-failure-taxonomy/MAST) | 2025 | NeurIPS 2025 (Poster) | failure taxonomy, MAST, diagnostics |
 | Agensh: Scaling Organizational Intelligence to 1,024 Agents | [2609.26781](https://arxiv.org/abs/2609.26781) | / | 2026 | arXiv (preprint) | multi-agent harness, self-organization, agent scaling, shared context |
